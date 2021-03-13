@@ -1,0 +1,2 @@
+This is project 5 of the Team Treehouse full-stack techdegree. It pulls data from the Random User Generator API to generate an
+example employee directory. I have included key-up search by employee name and changed the font to 'Shippori Mincho B1'.
